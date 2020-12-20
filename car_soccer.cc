@@ -1,8 +1,3 @@
-/** CSci-4611 Assignment 2:  Car Soccer
- * written by Jared Lim limxx564
- */
-
-
 #include <stdlib.h> // for rand
 #include "car_soccer.h"
 #include "config.h"
